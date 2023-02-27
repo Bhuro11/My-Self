@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
--👋 Hi, I’m @Bhuro11.<br>
+👋 Hi, I’m @Bhuro11.<br>
 👀 I’m Studing in It Field.<br>
 🌱 I’m currently learning Web Development.<br>
 💞️ I’m looking to collaborate on ...<br>
