@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Web Development.<br>
 💞️ I’m looking to collaborate on ...<br>
 📫 How to reach me : bhurogeetanjali11@gmail.com<br>
-Taking Graduation in BscIt field at Geetanjali Group Of Collage , Saurastra University.<br>
+Taking Graduation in BscIt field at Geetanjali Group Of Collage , Saurashtra University.<br>
 
