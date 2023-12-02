@@ -1,17 +1,3 @@
-### Hi there 👋
-
-
-**Bhuro11/My-Self** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-👋 Hi, I’m Bhargav Talpada.<br>
-👀 I’m Studing in IT Field.<br>
-🌱 I’m currently learning Web Development.<br>
-💞️ I’m looking to collaborate on ...<br>
-📫 How to reach me : bhargavtalpada2004@gmail.com<br>
-Taking Graduation in BscIt field at Geetanjali Group Of College , Saurashtra University.<br>
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -39,7 +25,7 @@ Taking Graduation in BscIt field at Geetanjali Group Of College , Saurashtra Uni
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
