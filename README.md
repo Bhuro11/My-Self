@@ -2,13 +2,13 @@
 
 ###
 
-<h3 align="center">A ReactJS Developer.</h3>
+<h2 align="center">A ReactJS Developer.</h2>
 
 ###
 
-<h1 align="left">🔭 I’m currently working on MERN Stack</h1>
-<h1 align="left"> 🌱 I’m currently learning ReactJS</h1>
-<h1 align="left"> 📫 How to reach me bhargavtalpada2004@gmail.com </h1>
+<h5 align="left">🔭 I’m currently working on MERN Stack</h5>
+<h5 align="left"> 🌱 I’m currently learning ReactJS</h5>
+<h5 align="left"> 📫 How to reach me bhargavtalpada2004@gmail.com </h5>
 
 ###
 
