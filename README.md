@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">A ReactJS Developer.</h2>
+<h3 align="center">A ReactJS Developer.</h3>
 
 ###
 
