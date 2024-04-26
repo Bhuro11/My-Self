@@ -6,9 +6,9 @@
 
 ###
 
-<h2 align="left">🔭 I’m currently working on MERN Stack</h2>
-<h2 align="left"> 🌱 I’m currently learning ReactJS</h2>
-<h2 align="left"> 📫 How to reach me bhargavtalpada2004@gmail.com </h2>
+<h1 align="left">🔭 I’m currently working on MERN Stack</h1>
+<h1 align="left"> 🌱 I’m currently learning ReactJS</h1>
+<h1 align="left"> 📫 How to reach me bhargavtalpada2004@gmail.com </h1>
 
 ###
 
@@ -40,15 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/getbootstrap/getbootstrap-original-wordmark.svg" height="40" alt="getbootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cs/cs-original-wordmark.svg" height="40" alt="cs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoDB/mongoDB-original-wordmark.svg" height="40" alt="mongoDb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original-wordmark.svg" height="40" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt=
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
