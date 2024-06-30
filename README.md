@@ -6,9 +6,9 @@
 
 ###
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **ReactJS**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **ReactJS and JavaScript**
 
