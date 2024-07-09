@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhuro11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" /> 
   <br>
   <br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuro11&" alt="bhuro11" /></p>
+  <p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=bhuro11&](https://streak-stats.demolab.com/?user=Bhuro11&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3)" alt="bhuro11" /></p>
 </div>
 
 ###
