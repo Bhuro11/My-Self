@@ -17,16 +17,16 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bhuro11.Bhuro11&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bhargav-talpada.bhargav-talpada&"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhuro11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhargav-talpada&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" /> 
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuro11&theme=dark&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav-talpada&theme=dark&hide_border=false" height="150" alt="streak graph"  />
 </div>
 
 ###
