@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **bhargavtalpada2004@gmail.com**
 
+- 👨‍💻 All of my projects are available at **[https://bhargav-talpada.vercel.app/](https://bhargav-talpada.vercel.app/)**
+
 ###
 
 <div align="center">
@@ -78,9 +80,18 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+    </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
     </a> 
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>     
+    </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     </a>
