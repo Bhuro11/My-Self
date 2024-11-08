@@ -28,7 +28,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhargav-talpada&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" /> 
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav-talpada&theme=dark&hide_border=false" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=bhargav_talpada&theme=dark&card_width=500&card_height=170" alt="GitHub Streak" />
+  </a>
 </div>
 
 ###
