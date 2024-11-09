@@ -29,7 +29,7 @@
   <br>
   <br>
     <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav-talpada&" alt="bhargav-talpada" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav-talpada&" alt="bhargav-talpada strek graph" />
     </p>
 </div>
 
