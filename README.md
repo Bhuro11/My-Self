@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bhargavtalpada2004@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://bhargav-talpada.vercel.app/](https://bhargav-talpada.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[https://bhargavtalpada.vercel.app/](https://bhargavtalpada.vercel.app/)**
 
 ###
 
